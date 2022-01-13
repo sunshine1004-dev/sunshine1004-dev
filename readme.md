@@ -4,6 +4,7 @@
 
 ### I like to think of myself as a creative & passionated person that aspire to innovate
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20full%20stack%20developer;5+%2B%20years%20of%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
@@ -24,6 +25,7 @@ I love React, Next, Vue  and have lots of passion for everything related to Bloc
 | [AWS](https://aws.amazon.com/)                                                                     | Medior⋆⋆         | 1         |
 | [Backend (Nodejs)](https://nodejs.org/)                                                            | Senior⋆⋆         | 4         |
 | [Backend (Laravel)](https://laravel.com/)                                                          | Medior           | 3         |
+
 ⋆⋆ To check more, click <a href="https://portfoilo-mu.vercel.app/#tech"> here </a>
 
 
