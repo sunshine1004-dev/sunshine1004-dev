@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"># **"Olek"**, Senior Fullstack Developer
+# **"Olek"**, Fullstack Javascript Developer
 
 ### I've been developing websites for more than 5 years and during those days I have gained broad & deep set of skills in frontend and backend development. 
 
