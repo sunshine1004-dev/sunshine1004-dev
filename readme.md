@@ -1,4 +1,4 @@
-# **"Olek"**, Fullstack Javascript Developer
+# **"Olek"**, Senior Full Stack Developer
 
 ### I've been developing websites for more than 5 years and during those days I have gained broad & deep set of skills in frontend and backend development. 
 
